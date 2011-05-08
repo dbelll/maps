@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+
+<Document>
+	<name>Hikes</name>
+	<description>2010 and 2011</description>
+	
+	<Style id="yellowPath">
+		<LineSyle><color>ff61f2f2</color><width>4</width></LineSyle>
+	</Style>
+
+<Placemark>
+	<name>Long Point</name>
+	<description>4/30/2011, 7.8 miles</description>
+	<styleUrl>#yellowPath</styleUrl>
+	<LineString>
+		<altitudeMode>relative</altitudeMode>
+		<coordinates>
+		-70.196022, 42.037064, 0
+		-70.19639599999999, 42.036888, 0
+		-70.19663199999999, 42.036598, 0
+		-70.196495, 42.036205, 0
+		-70.196358, 42.035873 5.42, 0
+		-70.196251, 42.035572 4.94, 0
+		-70.19615899999999, 42.035244, 0
+		-70.196022, 42.034893 5.42, 0
+		-70.195877, 42.034508 3.98, 0
+		-70.195786, 42.034229 4.46, 0
+		-70.195656, 42.033878 4.46, 0
+		-70.19551800000001, 42.033543, 0
+		-70.195412, 42.03323 4.46, 0
+		-70.195267, 42.032867 4.46, 0
+		-70.19516, 42.032574 4.46, 0
+		-70.19502300000001, 42.032242, 0
+		-70.19489299999999, 42.031857, 0
+		</coordinates>
+	</LineString>
+</Placemark>
+</Document>
+</kml>
